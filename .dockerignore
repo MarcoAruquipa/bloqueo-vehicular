@@ -1,0 +1,7 @@
+.git
+node_modules
+sistema_inteligente
+README.md
+backend_bloqueo_vehicular/node_modules
+backend_bloqueo_vehicular/.env
+backend_bloqueo_vehicular/test
